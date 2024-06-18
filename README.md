@@ -89,7 +89,7 @@ Explain what GitHub Actions are and how they can be used to automate workflows. 
 GitHub Actions automate tasks like testing and deployment directly from your repository.
 
 **Example:**
-```yaml
+``` yaml
 name: CI/CD Pipeline
 
 on:
@@ -114,7 +114,7 @@ steps:
         if: success()
         run: |
             ./deploy.sh
-
+```
 
 Introduction to Visual Studio:
 
