@@ -200,6 +200,9 @@ Visual Studio provides powerful tools for debugging your code, helping developer
 
 5. **Exception Settings:**
     - **Purpose:** Configure how Visual Studio handles exceptions, allowing you to break on specific exceptions for debugging purposes.
+<<<<<<< HEAD
+    - **Usage:** Access exception settings from the Debug menu > Windows > Exception Settings.
+=======
     - **Usage:** Access exception settings from the Debug menu > Windows > Exception Settings.
 
  6. **Diagnostic Tools:**
@@ -234,15 +237,52 @@ Visual Studio provides powerful tools for debugging your code, helping developer
 5. **Exception Settings:**
     - **Purpose:** Configure how Visual Studio handles exceptions, allowing you to break on specific exceptions for debugging purposes.
                               - **Usage:** Access exception settings from the Debug menu > Windows > Exception Settings.
+>>>>>>> 24bd8eec2451b84d7ca30b3d4dbb954f8f537210
 
-                              6. **Diagnostic Tools:**
+ 6. **Diagnostic Tools:**
     - **Purpose:** Monitor CPU and memory usage, and analyze performance during debugging sessions.
     - **Usage:** Open the Diagnostic Tools window from the Debug menu > Windows > Show Diagnostic Tools.
 
 **Example Scenario:**
     During development, a team uses Visual Studio's debugging tools to diagnose and fix issues in their web application. They set breakpoints to examine variables, use the Watch window to monitor data, and step through code to trace execution flow. By leveraging these debugging features, they ensure the application functions correctly and efficiently before deployment.
 
+<<<<<<< HEAD
+
+## Debugging in Visual Studio
+
+**Debugging Tools:**
+Visual Studio provides powerful tools for debugging your code, helping developers identify and resolve issues efficiently.
+
+1. **Breakpoints:**
+    - **Purpose:** Pause code execution at specific lines to inspect variables and code flow.
+    - **Usage:** Set breakpoints by clicking in the left margin of the code editor or using keyboard shortcuts (e.g., F9).
+
+2. **Watch Windows:**
+    - **Purpose:** Monitor variable values and expressions in real-time during debugging sessions.
+    - **Usage:** Add variables to watch by right-clicking and selecting "Add Watch" or using the Watch window.
+
+3. **Step Into, Over, Out:**
+    - **Purpose:** Navigate through code execution step-by-step to trace and understand program flow.
+    - **Usage:** Use F10 to step over, F11 to step into, and Shift+F11 to step out of functions.
+
+4. **Immediate Window:**
+    - **Purpose:** Execute code snippets and evaluate expressions interactively during debugging.
+    - **Usage:** Access the Immediate window from the Debug menu or by pressing Ctrl+Alt+I.
+
+5. **Exception Settings:**
+    - **Purpose:** Configure how Visual Studio handles exceptions, allowing you to break on specific exceptions for debugging purposes.
+                              - **Usage:** Access exception settings from the Debug menu > Windows > Exception Settings.
+
+6. **Diagnostic Tools:**
+    - **Purpose:** Monitor CPU and memory usage, and analyze performance during debugging sessions.
+    - **Usage:** Open the Diagnostic Tools window from the Debug menu > Windows > Show Diagnostic Tools.
+
+**Example Scenario:**
+    During development, a team uses Visual Studio's debugging tools to diagnose and fix issues in their web application. They set breakpoints to examine variables, use the Watch window to monitor data, and step through code to trace execution flow. By leveraging these debugging features, they ensure the application functions correctly and efficiently before deployment.
+    
+=======
 >>>>>>> 26c621fe5d7e2aed30025fec2315582c30d217aa
+>>>>>>> 24bd8eec2451b84d7ca30b3d4dbb954f8f537210
 Collaborative Development using GitHub and Visual Studio:
 
 Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
