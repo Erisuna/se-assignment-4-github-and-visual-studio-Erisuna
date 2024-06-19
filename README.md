@@ -224,7 +224,7 @@ GitHub and Visual Studio together provide a robust environment for collaborative
 **Example Scenario:**
 A software development team uses Visual Studio for coding and GitHub for collaborative version control. Here’s how they leverage this integration:
 
-   1. **Branching and Collaboration:**
+    1. **Branching and Collaboration:**
     - Team members create feature branches in Visual Studio to work on specific tasks or features independently.
     - They push changes to GitHub and initiate pull requests to propose merging their branches into the main repository.
 
